@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "sanguimancy:carminite_ore",
+    "sanguimancy:deepslate_carminite_ore",
+    "sanguimancy:raw_carminite_block",
+    "sanguimancy:carminite_block",
+    "sanguimancy:carminite_shell",
+    "sanguimancy:testine_tube"
+  ]
+}
