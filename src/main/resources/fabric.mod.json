@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "sanguimancy",
+  "version": "1.0.0",
+  "name": "Sanguimancy",
+  "authors": [
+    "Odaghast"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": ""
+  },
+  "license": "Academic Free License v3.0",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.sanguimancy.SanguimancyMod"
+    ],
+    "client": [
+      "net.mcreator.sanguimancy.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric": "*",
+    "minecraft": "~1.20",
+    "java": ">=17"
+  }
+}
