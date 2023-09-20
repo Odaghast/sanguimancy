@@ -1,0 +1,36 @@
+Stelar Magicae :
+    Stela Stones that have carved glyphs that perform on click effects at cost for blood, maybe some altar stuff too
+    Stela Stones have a piece of pur gold inside, all blood that has settled into the stone will burst away from the gold performing an action
+
+Stela of the Core :
+    Spawns lava at clicked location
+
+Stela of the Deep :
+    Spawns water at clicked location
+
+Stela of the Sky :
+    Flings user in pointed direction
+
+Stela of the Grove :
+    Applies bonemeal affect
+
+Stela of the Elements :
+    Applies water breathing, fire resist, resist, slow fall
+
+Stela of the Aware :
+    On Block :
+        Places a light source
+    On Air :
+        Applies Glowing & Night vision
+
+Stela of the Excavator :
+    Applies haste
+
+Stela of the Wanderer :
+    Applies speed boost, jump boost & dolphins grace
+
+Stela of the Unaware :
+    Applies invisibility
+
+Stela of the Archivist :
+    Maybe an inventory storage system?

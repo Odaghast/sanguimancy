@@ -1,0 +1,19 @@
+Organic Mechanics :
+    All things Organism are to be treated as block machinery
+
+    Achievment get, Organomics
+
+Muncher :
+    Unknown
+
+Hungry Chest :
+    Chest that will automatically pickup nearby items
+
+Heart Bellows :
+    Increase fuel efficiency for furnaces & similar
+
+Slopper :
+    only picks up on horizontal spots in front of it (horizontal hopper)
+
+Testine Tube :
+    like a hopper but unable to pick up items in the world, instead needs to be given an item, and it will push it out the back

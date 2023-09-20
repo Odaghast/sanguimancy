@@ -1,0 +1,21 @@
+Pure Gold repels and corals Blood, low durability, highly enchantable, not good for tools by itself
+Carminite attracts Blood, high durability, low enchantability, very good for tools especially with Pure Gold
+
+Need Some way to perform magics & make trinkets before carminite
+
+Carminite items will have an added ability to become stronger by infusing more and more Blood
+Lacunite, the void varient of all blood things and carminite
+
+All things Carminite use 1 color schema
+All organic Blood Items use a seperate color Schema
+
+Blood is actually a living organism, scared of gold, rather than functioning as a fluid dynamic it acts out of fear
+
+Organic Mechanics :
+    All things Organism are to be treated as block machinery
+
+Stelar Magicae :
+    Stela Stones that have carved glyphs that perform on click effects at cost for blood, maybe some altar stuff too
+
+Artifactory :
+    Crafting jewelry, trinkets, armor & tools that perform long term passive effects

@@ -1,0 +1,11 @@
+Artifactory :
+    Crafting jewelry, trinkets, armor & tools that perform long term passive effects
+
+Magnet :
+    Pulls in items
+
+The Hungering :
+    On attacking player, will add damage to the attack and return some as hunger to the player
+
+The Shattering :
+    Acts like the thorns enchant
