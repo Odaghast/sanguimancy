@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "sanguimancy:block/digester" }
+  }
+}

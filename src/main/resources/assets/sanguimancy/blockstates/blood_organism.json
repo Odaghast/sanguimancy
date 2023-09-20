@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "level_nutrient=0": {
+      "model": "sanguimancy:block/blood_organism"
+    },
+    "level_nutrient=1": {
+      "model": "sanguimancy:block/blood_organism"
+    },
+    "level_nutrient=2": {
+      "model": "sanguimancy:block/blood_organism"
+    },
+    "level_nutrient=3": {
+      "model": "sanguimancy:block/blood_organism_full"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "sanguimancy:block/testine_tube",
+      "x": 90
+    },
+    "facing=east": {
+      "model": "sanguimancy:block/testine_tube",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "sanguimancy:block/testine_tube"
+    },
+    "facing=south": {
+      "model": "sanguimancy:block/testine_tube",
+      "y": 180
+    },
+    "facing=up": {
+      "model": "sanguimancy:block/testine_tube",
+      "x": 270
+    },
+    "facing=west": {
+      "model": "sanguimancy:block/testine_tube",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+
+  "item.sanguimancy.raw_carminite" : "Raw Carminite",
+  "item.sanguimancy.carminite" : "Carminite",
+  "item.sanguimancy.pure_gold" : "Pure Gold",
+  "item.sanguimancy.blood_rose_petal" : "Blood Rose Petal",
+  "item.sanguimancy.blood_thread" : "Blood Thread",
+  "item.sanguimancy.blood_sewn_leather" : "Blood Sewn Leather",
+  "item.sanguimancy.blood_nutrient" : "Blood Nutrient",
+  "item.sanguimancy.blood_amber" : "Blood Amber",
+  "item.sanguimancy.blood_heart" : "Blood Heart",
+  "item.sanguimancy.tooth" : "Tooth",
+  "item.sanguimancy.intestine" : "Intestine",
+  "item.sanguimancy.outestine" : "Outestine",
+  "item.sanguimancy.magnet" : "Magnet",
+
+  "item.sanguimancy.stela_stone" : "Stela Stone",
+  "item.sanguimancy.stela_core" : "Stela of the Core",
+  "item.sanguimancy.stela_deep" : "Stela of the Deep",
+  "item.sanguimancy.stela_excavator" : "Stela of the Excavator",
+  "item.sanguimancy.stela_elements" : "Stela of the Elements",
+  "item.sanguimancy.stela_grove" : "Stela of the Grove",
+  "item.sanguimancy.stela_wanderer" : "Stela of the Wanderer",
+  "item.sanguimancy.stela_sky" : "Stela of the Sky",
+  "item.sanguimancy.stela_aware" : "Stela of the Aware",
+  "item.sanguimancy.stela_unaware" : "Stela of the Unaware",
+
+  "item.sanguimancy.the_heart" : "The Heart",
+
+  "item.sanguimancy.blood_jar" : "§cBlood Jar",
+  "item.sanguimancy.creative_blood_jar" : "§dCreative Blood Jar",
+
+  "item.sanguimancy.dagger" : "Dagger",
+  "item.sanguimancy.athame" : "Athame",
+
+  "item.sanguimancy.curette" : "Curette",
+
+  "item.sanguimancy.carminite_axe" : "Carminite Axe",
+  "item.sanguimancy.carminite_pickaxe" : "Carminite Pickaxe",
+  "item.sanguimancy.carminite_shovel" : "Carminite Shovel",
+  "item.sanguimancy.carminite_hoe" : "Carminite Hoe",
+  "item.sanguimancy.carminite_sword" : "Carminite Sword",
+
+  "block.sanguimancy.carminite_ore": "Carminite Ore",
+  "block.sanguimancy.deepslate_carminite_ore": "Deepslate Carminite Ore",
+  "block.sanguimancy.raw_carminite_block": "Raw Carminite Block",
+  "block.sanguimancy.carminite_block": "Carminite Block",
+  "block.sanguimancy.blood_rose": "Blood Rose",
+  "block.sanguimancy.blood_organism": "Blood Organism",
+  "block.sanguimancy.carminite_shell": "Carminite Shell",
+  "block.sanguimancy.muncher": "Muncher",
+  "block.sanguimancy.testine_tube": "Testine Tube",
+  "block.sanguimancy.digester": "Digester",
+
+  "tooltip.sanguimancy.blood_storage" : "§c%sb §cof Blood",
+  "tooltip.sanguimancy.blood_storage_milli" : "§c%smb §cof Blood",
+  "tooltip.sanguimancy.blood_storage_creative" : "§d∞b §cof Blood",
+  "tooltip.sanguimancy.stela_charges" : "§c%d/%d §cCharges",
+
+  "effect.sanguimancy.drain": "Draining",
+
+  "itemGroup.sanguimancy.creative_tab" : "Sanguimancy"
+
+}
