@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bbb",
+    " b "
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:bone"
+    }
+  },
+  "result": {
+    "item": "sanguimancy:tooth",
+    "count": 4
+  }
+}

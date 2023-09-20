@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ss",
+    "sgs",
+    "ss "
+  ],
+  "key": {
+    "s": {
+      "item": "minecraft:stone"
+    },
+    "g": {
+      "item": "sanguimancy:pure_gold"
+    }
+  },
+  "result": {
+    "item": "sanguimancy:stela_stone",
+    "count": 1
+  }
+}

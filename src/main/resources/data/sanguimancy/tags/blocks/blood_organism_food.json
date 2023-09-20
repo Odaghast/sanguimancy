@@ -1,0 +1,14 @@
+{
+  "values": [
+    "minecraft:pumpkin",
+    "minecraft:melon",
+    "minecraft:beetroots",
+    "minecraft:carrots",
+    "minecraft:potatoes",
+    "minecraft:wheat",
+    "minecraft:hay_block",
+    "minecraft:cake",
+    "minecraft:sweet_berry_bush",
+    "#minecraft:leaves"
+  ]
+}

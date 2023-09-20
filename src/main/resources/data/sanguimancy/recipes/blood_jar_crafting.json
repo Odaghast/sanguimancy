@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gbg",
+    "lcl",
+    "ggg"
+  ],
+  "key": {
+    "l": {
+      "item": "minecraft:glass"
+    },
+    "g": {
+      "item": "sanguimancy:pure_gold"
+    },
+    "c": {
+      "item": "sanguimancy:carminite"
+    },
+    "b": {
+      "tag": "minecraft:wooden_buttons"
+    }
+  },
+  "result": {
+    "item": "sanguimancy:blood_jar",
+    "count": 1
+  }
+}

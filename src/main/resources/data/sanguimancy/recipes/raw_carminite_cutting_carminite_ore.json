@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "sanguimancy:carminite_ore"
+  },
+  "result": "sanguimancy:raw_carminite",
+  "count": 2
+}

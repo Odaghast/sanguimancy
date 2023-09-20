@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gic"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "g": {
+      "item": "sanguimancy:pure_gold"
+    },
+    "c": {
+      "item": "sanguimancy:carminite"
+    }
+  },
+  "result": {
+    "item": "sanguimancy:blood_jar",
+    "count": 1
+  }
+}

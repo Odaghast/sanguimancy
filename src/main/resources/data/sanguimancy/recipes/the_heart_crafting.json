@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gsg",
+    "nhn",
+    "glg"
+  ],
+  "key": {
+    "l": {
+      "item": "sanguimancy:blood_sewn_leather"
+    },
+    "g": {
+      "item": "sanguimancy:pure_gold"
+    },
+    "h": {
+      "item": "sanguimancy:blood_heart"
+    },
+    "s": {
+      "tag": "sanguimancy:stela_aware"
+    },
+    "n": {
+      "tag": "sanguimancy:blood_nutrient"
+    }
+  },
+  "result": {
+    "item": "sanguimancy:the_heart",
+    "count": 1
+  }
+}

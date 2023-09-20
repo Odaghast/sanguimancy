@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "n",
+    "h"
+  ],
+  "key": {
+    "n": {
+      "item": "sanguimancy:blood_nutrient"
+    },
+    "h": {
+      "item": "minecraft:dropper"
+    }
+  },
+  "result": {
+    "item": "sanguimancy:outestine",
+    "count": 1
+  }
+}

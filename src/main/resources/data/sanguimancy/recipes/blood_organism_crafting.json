@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "fpf",
+    "php",
+    "fpf"
+  ],
+  "key": {
+    "h": {
+      "item": "minecraft:honey_bottle"
+    },
+    "p": {
+      "item": "sanguimancy:blood_rose_petal"
+    },
+    "f": {
+      "item": "minecraft:fermented_spider_eye"
+    }
+  },
+  "result": {
+    "item": "sanguimancy:blood_organism",
+    "count": 1
+  }
+}

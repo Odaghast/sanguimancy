@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "c",
+    "g",
+    "/"
+  ],
+  "key": {
+    "c": {
+      "item": "sanguimancy:carminite"
+    },
+    "g": {
+      "item": "sanguimancy:pure_gold"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "sanguimancy:carminite_shovel",
+    "count": 1
+  }
+}

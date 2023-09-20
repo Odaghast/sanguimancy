@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gg",
+    "ga",
+    " /"
+  ],
+  "key": {
+    "a": {
+      "item": "sanguimancy:blood_amber"
+    },
+    "g": {
+      "item": "sanguimancy:pure_gold"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "sanguimancy:carminite_axe",
+    "count": 1
+  }
+}

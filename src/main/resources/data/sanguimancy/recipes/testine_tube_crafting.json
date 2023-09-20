@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " i ",
+    "lcl",
+    " o "
+  ],
+  "key": {
+    "i": {
+      "item": "sanguimancy:intestine"
+    },
+    "c": {
+      "item": "sanguimancy:carminite_shell"
+    },
+    "o": {
+      "item": "sanguimancy:outestine"
+    },
+    "l": {
+      "item": "sanguimancy:blood_sewn_leather"
+    }
+  },
+  "result": {
+    "item": "sanguimancy:testine_tube",
+    "count": 4
+  }
+}

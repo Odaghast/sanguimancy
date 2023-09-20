@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "h",
+    "n"
+  ],
+  "key": {
+    "n": {
+      "item": "sanguimancy:blood_nutrient"
+    },
+    "h": {
+      "item": "minecraft:hopper"
+    }
+  },
+  "result": {
+    "item": "sanguimancy:intestine",
+    "count": 1
+  }
+}

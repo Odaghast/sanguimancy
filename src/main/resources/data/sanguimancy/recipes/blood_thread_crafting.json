@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "sanguimancy:blood_rose_petal"
+        },
+        {
+            "item": "sanguimancy:blood_rose_petal"
+        },
+        {
+            "item": "minecraft:string"
+        }
+    ],
+    "result": {
+        "item": "sanguimancy:blood_thread",
+        "count": 1
+    }
+}
