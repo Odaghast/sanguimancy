@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "bottom": "sanguimancy:block/blood_organism",
+    "front": "sanguimancy:block/blood_organism_full",
+    "particle": "sanguimancy:block/blood_organism_full",
+    "side": "sanguimancy:block/blood_organism_full",
+    "top": "sanguimancy:block/blood_organism"
+  }
+}

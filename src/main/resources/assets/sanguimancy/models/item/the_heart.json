@@ -1,0 +1,6 @@
+{
+  "parent": "sanguimancy:item/template_trinket",
+  "textures": {
+    "layer0": "sanguimancy:item/the_heart"
+  }
+}

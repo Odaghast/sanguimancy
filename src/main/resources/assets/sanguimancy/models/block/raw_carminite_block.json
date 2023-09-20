@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sanguimancy:block/raw_carminite_block"
+  }
+}
